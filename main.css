@@ -28,6 +28,11 @@ body{
   font-size: 15px;
   color: #a3d;
 }
+.center h3{
+  user-select: none;
+  font-size: 20px;
+  color: red;
+}
 .center h5{
     user-select: none;
     font-size: 7px;
