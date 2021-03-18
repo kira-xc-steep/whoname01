@@ -11,6 +11,7 @@ body{
   top: 5%;
   left: 5%;
   transform: translate(-5%, -5%);
+  width: 100%;
 }
 .center h1{
   user-select: none;
@@ -35,7 +36,7 @@ body{
 }
 .center h5{
     user-select: none;
-    font-size: 11px;
+    font-size: 7px;
     color: white;
     background: repeating-linear-gradient(-45deg, red 0%, yellow 7.14%, rgb(0,255,0) 14.28%,
               rgb(0,255,255) 21.4%, cyan 28.56%, blue 35.7%, magenta 42.84%, red 50%);
